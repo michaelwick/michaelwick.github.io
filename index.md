@@ -2,8 +2,8 @@
 layout: default
 ---
 
-#Michael L. Wick
+# Michael L. Wick
 
-##News
+## News
 
-##Publications
+## Publications
