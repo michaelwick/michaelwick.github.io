@@ -3,3 +3,10 @@ theme: jekyll-theme-minimal
 title: "Michael L. Wick"
 url: https://michaelwick.github.io
 logo: /files/images/me_gren.png
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  index.md
