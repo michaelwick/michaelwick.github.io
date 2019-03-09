@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: "Michael L. Wick"
 url: https://michaelwick.github.io
 logo: /files/images/me_gren.png
-description: Homepage <br/> [Google Scholar](https://scholar.google.com/citations?user=D0DpJUwAAAAJ&hl=en&oi=ao)
+description: Homepage <br/> <a href=https://scholar.google.com/citations?user=D0DpJUwAAAAJ&hl=en&oi=ao>Google Scholar</a> <br/> <a href=https://labs.oracle.com/pls/apex/f?p=labs:bio:0:2069>Oracle Labs page<a/>
 
 relative_links:
   enabled: true
