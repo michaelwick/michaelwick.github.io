@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: "Michael L. Wick"
 url: https://michaelwick.github.io
 logo: /files/images/me_gren.png
-description: Michael's Homepage
+description: Michael's academic homepage
 
 relative_links:
   enabled: true
