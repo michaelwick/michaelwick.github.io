@@ -2,9 +2,11 @@
 layout: default
 ---
 
+Michael Wick is a senior member of the technical staff at Oracle Labs in Burlington MA.  His research interests lie at the intersection of machine learning and natural language processing with a proclivity for probabilistic modeling, a family of techniques, I've been told, now relegated to the study of the antiquarian.
+
 ### News
 
-I am an Area Chair for the first annual conference on automated knowledge base constructino (AKBC) 2019.
+I am an Area Chair for the first annual Conference on Automated Knowledge Base construction (AKBC) 2019, to take place in the resplendent Amherst, MA.  Hope to see you all there.
 
 ### Recent Publications
 
