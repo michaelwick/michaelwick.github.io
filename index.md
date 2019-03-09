@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Michael Wick is a senior member of the technical staff at Oracle Labs in Burlington MA.  His research interests lie at the intersection of machine learning and natural language processing with a proclivity for probabilistic modeling, a family of techniques, I've been told, now relegated to the study of the antiquarian.
+Michael Wick is a senior member of the technical staff in the Machine Learning Research Group at Oracle Labs in Burlington MA.  His research interests lie at the intersection of machine learning and natural language processing with a proclivity for probabilistic modeling, a family of techniques, I've been told, now relegated to the study of the antiquarian.
 
 ### News
 
