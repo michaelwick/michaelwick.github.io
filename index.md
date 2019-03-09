@@ -12,6 +12,12 @@ Prior to joining Oracle Labs he did his Ph.D. with [Andrew McCallum](https://peo
 
 Michael is an Area Chair for the first annual Conference on Automated Knowledge Base construction (AKBC) 2019, to take place in the resplendent Amherst, MA.  Hope to see you all there.
 
+Our paper on gradient-based inference was presented at AAAI.
+
+Our paper on scaling probabilistic models with linear homomorphic compression was accepted at AKBC.
+
+Our paper on sketching algorithms for scaling latent Dirichlet-Categorical models was accepted at AISTATS.
+
 ### Selected and Recent Publications
 
 Jay Yoon Lee, Sanket Mehta, Michael Wick, Jean-Baptiste Tristan, Jaime Carbonell.  *Gradient-based inference for networks with output constraints.*  AAAI 20019. [[pdf]](https://www.aaai.org/Papers/AAAI/2019/AAAI-LeeJ.6432.pdf)
@@ -21,16 +27,16 @@ Michael Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.  *Scal
 Joseph Tassarotti, Jean-Baptiste Tristan, Michael Wick.  *Sketching for latent Dirichlet-categorical models.*  AISTATS 2019 (in preperation).
 
 
-Manzil Zaheer, Michael Wick, John Tristan, Alex Smola, Guy Steele.  *Exponential stochastic cellular automata for massively parallel inference.*  AIStats 2016.
+Manzil Zaheer, Michael Wick, John Tristan, Alex Smola, Guy Steele.  *Exponential stochastic cellular automata for massively parallel inference.*  AIStats 2016. [[pdf]](http://proceedings.mlr.press/v51/zaheer16.pdf)
 
-Michael Wick, Pallika Kanani, Adam Pocock. *Minimally-constrained multilingual embeddings via artificial code switching.*  AAAI 2016.
+Michael Wick, Pallika Kanani, Adam Pocock. *Minimally-constrained multilingual embeddings via artificial code switching.*  AAAI 2016. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12464/12032)
 
-Michael Wick, Kashayar Rohanimanesh, Kedar Bellare, Aron Culotta, Andrew McCallum. *SampleRank: training factor graphs with atomic gradients.  ICML 2011.*
+Michael Wick, Kashayar Rohanimanesh, Kedar Bellare, Aron Culotta, Andrew McCallum. *SampleRank: training factor graphs with atomic gradients.  ICML 2011.* [[pdf]](http://www.cs.iit.edu/~culotta/pubs/wick09sample.pdf)
 
-Michael Wick, Andrew McCallum.  *Query-aware MCMC.*  NuerIPS 2011.
+Michael Wick, Andrew McCallum.  *Query-aware MCMC.*  NuerIPS 2011. [[pdf]](https://papers.nips.cc/paper/4237-query-aware-mcmc.pdf)
 
 Michael Wick, Gerome Miklau, Andrew McCallum.  *Scalable probabilistic databases with factor graphs and MCMC*.  VLDB 2010. [[pdf]](http://www.vldbarc.org/pvldb/vldb2010/pvldb_vol3/R71.pdf)
 
-Sameer Singh, Michael Wick, Andrew McCallum. Monte Carlo MC: Efficient inference by approximate sampling.  EMNLP 2012
+Sameer Singh, Michael Wick, Andrew McCallum. *Monte Carlo MC: Efficient inference by approximate sampling.*  EMNLP 2012. [[pdf]](https://ciir-publications.cs.umass.edu/getpdf.php?id=1053)
 
-Andrew McCallum, Kashayar Rohanimanesh, Michael Wick, Karl Schultz, Sameer Singh.  Factorie: efficient probabilistic programming via imperative declarations of structure, inference and learning.  NeurIPS workshop on probabilistic programming 2008. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=3074A767BA2B302122B17414340C1AD8?doi=10.1.1.219.2011&rep=rep1&type=pdf) 
+Andrew McCallum, Kashayar Rohanimanesh, Michael Wick, Karl Schultz, Sameer Singh.  *Factorie: efficient probabilistic programming via imperative declarations of structure, inference and learning.*  NeurIPS workshop on probabilistic programming 2008. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=3074A767BA2B302122B17414340C1AD8?doi=10.1.1.219.2011&rep=rep1&type=pdf) 
