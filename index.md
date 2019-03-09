@@ -10,7 +10,7 @@ I am an Area Chair for the first annual Conference on Automated Knowledge Base c
 
 ### Recent Publications
 
-Michael Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.  *Scaling hierarchical coreference with homomorphic compression.*  AKBC 20019 (in preperation).
+Michael Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.  *Scaling hierarchical coreference with homomorphic compression.*  AKBC 2019 (in preperation).
 
 Joseph Tassarotti, Jean-Baptiste Tristan, Michael Wick.  *Sketching for latent Dirichlet-categorical models.*  AISTATS 2019 (in preperation).
 
