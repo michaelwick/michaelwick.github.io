@@ -6,7 +6,7 @@ Michael Wick is a senior member of the technical staff in the Machine Learning R
 
 ### News
 
-I am an Area Chair for the first annual Conference on Automated Knowledge Base construction (AKBC) 2019, to take place in the resplendent Amherst, MA.  Hope to see you all there.
+Michael is an Area Chair for the first annual Conference on Automated Knowledge Base construction (AKBC) 2019, to take place in the resplendent Amherst, MA.  Hope to see you all there.
 
 ### Recent Publications
 
