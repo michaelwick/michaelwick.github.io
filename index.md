@@ -27,7 +27,7 @@ Michael Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan.  *Scal
 Joseph Tassarotti, Jean-Baptiste Tristan, Michael Wick.  *Sketching for latent Dirichlet-categorical models.*  AISTATS 2019 (in preperation).
 
 
-Manzil Zaheer, Michael Wick, John Tristan, Alex Smola, Guy Steele.  *Exponential stochastic cellular automata for massively parallel inference.*  AIStats 2016. [[pdf]](http://proceedings.mlr.press/v51/zaheer16.pdf)
+Manzil Zaheer, Michael Wick, John Tristan, Alex Smola, Guy Steele.  *Exponential stochastic cellular automata for massively parallel inference.*  AISTATS 2016. [[pdf]](http://proceedings.mlr.press/v51/zaheer16.pdf)
 
 Michael Wick, Pallika Kanani, Adam Pocock. *Minimally-constrained multilingual embeddings via artificial code switching.*  AAAI 2016. [[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewFile/12464/12032)
 
