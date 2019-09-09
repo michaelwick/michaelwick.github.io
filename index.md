@@ -19,6 +19,8 @@ Our paper on scaling probabilistic models with linear homomorphic compression wa
 Our paper on sketching algorithms for scaling latent Dirichlet-Categorical models was accepted at AISTATS.
 
 ### Selected and Recent Publications
+Michael Wick, Swetasudha Panda, Jean-Baptiste Tristan.  *Unleashing Fairness: a Trade-off Revisited*  NeurIPS 2019 (to appear). [[pdf]](comingsoon.pdf)
+
 
 Jay Yoon Lee, Sanket Mehta, Michael Wick, Jean-Baptiste Tristan, Jaime Carbonell.  *Gradient-based inference for networks with output constraints.*  AAAI 2019. [[pdf]](https://www.aaai.org/Papers/AAAI/2019/AAAI-LeeJ.6432.pdf)
 
