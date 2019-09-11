@@ -11,6 +11,8 @@ Prior to joining Oracle Labs he did his Ph.D. with [Andrew McCallum](https://peo
 ### News
 Our paper on the trade-off of fairness and accuracy was accepted at NeurIPS 2019.
 
+I'm teaching the advanced machine learning class (CS 281) with John Tristan this fall at Harvard.
+
 Michael is an Area Chair for the first annual Conference on [Automated Knowledge Base construction (AKBC)](http://www.akbc.ws/2019/) 2019, to take place in the resplendent Amherst, MA.  Hope to see you all there.
 
 Our paper on gradient-based inference was presented at AAAI.
